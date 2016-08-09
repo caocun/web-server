@@ -1,0 +1,21 @@
+#include<iostream>
+#include<stdlib.h>
+#include<unistd.h>
+#include<string.h>
+#include<assert.h>
+#include<signal.h>
+#include<fcntl.h>
+#include<sys/sem.h>
+#include<sys/shm.h>
+#include<sys/msg.h>
+#include<pthread.h>
+#include<semaphore.h>
+#include<sys/types.h>
+#include<pwd.h>
+#include<sys/utsname.h>
+#include<sys/select.h>
+#include<sys/socket.h>
+#include<arpa/inet.h>
+#include<poll.h>
+#include<sys/epoll.h>
+using namespace std;
